@@ -1,0 +1,19 @@
+green-computing-capstone/
+├── README.md
+├── research/
+│   ├── research-summary.md
+│   └── verification-report.md
+├── article/
+│   └── carbon-impact-of-computing.md
+├── checklist/
+│   └── green-software-checklist.md
+├── code/
+│   ├── benchmark.py
+│   ├── README.md
+│   └── results/
+├── quiz/quiz.md
+├── presentation/slide-deck.md
+├── infographic/green-computing-habits.svg
+├── prompts/prompt-library.md
+├── analysis/before-after-analysis.md
+└── demo/final-demo.md
